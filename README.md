@@ -14,7 +14,6 @@ python flaskr.py
 Now navigate your browser to http://localhost:5000 and you can try out various predictors for replying.
 
 # About
-On the homepage of this chatbot, there are 6 options which depicts that it works in 6 different ways:
 * Trained with Gunthercox dataset on word level using GloVe encoding
 * Trained with Gunthercox dataset on word level using One-hot encoding
 * Trained with Gunthercox dataset on character level
